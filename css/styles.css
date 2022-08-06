@@ -17,3 +17,11 @@ img.displayed {
     border: 5px solid red;
     width: 400px;
 }
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    margin: 0 10px;
+}
